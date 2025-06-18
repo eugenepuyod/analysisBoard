@@ -6,6 +6,7 @@ use Livewire\Component;
 use Livewire\Attributes\On;
 use Livewire\Attributes\Layout;
 
+
 #[Layout('layouts.app')]
 class JsonPage extends Component
 {
